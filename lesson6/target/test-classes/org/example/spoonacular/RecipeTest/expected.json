@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    {
+      "name": "mixed vegetables",
+      "include": true,
+      "image": "mixed-vegetables.png"
+    },
+    {
+      "name": "gluten",
+      "include": false
+    }
+  ],
+  "dishes": [
+    {
+      "name": "salmon",
+      "image": "https://spoonacular.com/cdn/ingredients_100x100/salmon.png"
+    }
+  ],
+  "modifiers": [
+
+  ],
+  "cuisines": [
+
+  ]
+}
+
+
+
+
+
